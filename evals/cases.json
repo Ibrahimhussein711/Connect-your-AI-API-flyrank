@@ -1,0 +1,10 @@
+[
+  {"input": "I want a refund for my subscription", "expected_category": "billing"},
+  {"input": "The app crashes when I click the save button", "expected_category": "bug"},
+  {"input": "Can you add a dark mode to the dashboard?", "expected_category": "feature"},
+  {"input": "Hello, how are you today?", "expected_category": "other"},
+  {"input": "I've been double charged this month", "expected_category": "billing"},
+  {"input": "The text on the login page is too small to read", "expected_category": "bug"},
+  {"input": "I have a suggestion for a new filter in the search", "expected_category": "feature"},
+  {"input": "Blah blah nonsense text", "expected_category": "other"}
+]
